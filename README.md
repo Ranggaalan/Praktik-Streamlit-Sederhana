@@ -41,11 +41,3 @@ Dataset tersedia di bawaan `sklearn.datasets`.
   - Deploy dengan Streamlit
 
 ---
-
-## 🖥️ Cara Menjalankan Aplikasi
-
-1. **Clone repositori:**
-
-```bash
-git clone https://github.com/username/iris-streamlit-demo.git
-cd iris-streamlit-demo
