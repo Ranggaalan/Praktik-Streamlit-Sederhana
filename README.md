@@ -2,6 +2,8 @@
 
 # 🌸 Iris Flower Classification with Streamlit
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.birdsandblooms.com%2Fgardening%2Fflower-gardening%2Fbearded-iris-flowers%2F&psig=AOvVaw1tvJzKfluJMtioJf5SBFyt&ust=1751719176654000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICezcyco44DFQAAAAAdAAAAABAE
+
 Proyek ini merupakan contoh sederhana bagaimana cara melakukan **klasifikasi bunga Iris** menggunakan **model machine learning** dan **men-deploy-nya ke aplikasi web interaktif dengan Streamlit**.
 
 ---
