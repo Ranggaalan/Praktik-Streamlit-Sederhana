@@ -44,4 +44,7 @@ Dataset tersedia di bawaan `sklearn.datasets`.
 
 ---
 ## Deploy App Streamlit
-<img width="884" height="809" alt="Image" src="https://github.com/user-attachments/assets/49fbea7b-8875-4991-9d61-75176daecab2" />
+
+<img width="832" height="615" alt="Image" src="https://github.com/user-attachments/assets/c53d5831-201e-447e-953c-1c45a31a08be" />
+
+<img width="825" height="232" alt="Image" src="https://github.com/user-attachments/assets/15632f58-f70c-4aef-a4ba-73db14c7a7e8" />
